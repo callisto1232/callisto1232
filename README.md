@@ -5,7 +5,7 @@
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) 
 ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white) 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=callisto1232&show_icons=true)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=callisto1232)](https://git.io/streak-stats)
 <!--
 **callisto1232/callisto1232** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
