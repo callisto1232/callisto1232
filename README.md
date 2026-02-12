@@ -4,9 +4,8 @@
 
 I'm studying at a highschool in Istanbul at 11th grade, working on robotics, electronics and software development at the same time.
 
-- 🔭 I’m currently working on a beginner-friendly CNC router
-- 🌱 I’m currently learning 3 axis mechanisms
-
+- 🔭 I’m currently building **duco-cnc**, a beginner-friendly CNC router
+- 🌱 I’m currently learning about multi-axis mechanisms
 - 💬 Ask me about Linux, Python, Arduino C++ and electronics
 
 ## What I use:
