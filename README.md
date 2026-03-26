@@ -4,7 +4,7 @@
 
 I'm studying at a highschool in Istanbul at 11th grade, working on robotics, electronics and software development at the same time.
 
-- 🔭 I’m currently building **[duco-cnc](https://github.com/callisto1232/duco-cnc)**, a beginner-friendly CNC router
+- 🔭 I’m currently building **[Ducofex CNC](https://github.com/callisto1232/ducofex)**, a beginner-friendly CNC router
 - 🌱 I’m currently learning about multi-axis mechanisms
 - 💬 Ask me about Linux, Python, Arduino C++ and electronics
 
