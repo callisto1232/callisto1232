@@ -1,7 +1,3 @@
-<h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Inter&size=48&center=true&vCenter=true&width=500&height=70&color=4493F8&duration=4000&lines=Hi,+I'm+Ahmet!+👋;" />
-</h1>
-
 I'm studying at a highschool in Istanbul at 11th grade, working on robotics, electronics and software development at the same time.
 
 - 🔭 I’m currently building **[Ducofex CNC](https://github.com/callisto1232/ducofex)**, a beginner-friendly CNC router
