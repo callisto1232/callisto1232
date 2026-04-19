@@ -18,7 +18,7 @@ I'm studying at a highschool in Istanbul at 11th grade, working on robotics, ele
 ![openSUSE](https://img.shields.io/badge/openSUSE-%2364B345?style=for-the-badge&logo=openSUSE&logoColor=white)
 
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=callisto1232)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=callisto1232)](https://github-readme-streak-stats.herokuapp.com?user=callisto1232)
 
 <!--
 **callisto1232/callisto1232** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
